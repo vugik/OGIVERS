@@ -9,7 +9,7 @@
 
 Выделить 4096 МБ оперативной памяти
 
-
+![image](https://github.com/vugik/OGIVERS/blob/main/Снимок222.PNG)
 
 
 # Установка docker
